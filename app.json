@@ -1,0 +1,12 @@
+
+{
+    "name": "moviedetails",
+    "description": "A very simple webhook that gets you the details of a specified movie.",
+    "repository": "https://github.com/shreya367/webhookproj.git",
+    "keywords": [
+        "movies",
+        "api.ai",
+        "chatbot",
+        "webhook"
+    ]
+}
